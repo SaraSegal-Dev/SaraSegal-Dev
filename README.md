@@ -41,6 +41,19 @@ Git · Bitbucket · Jira · Postman · Docker · Power BI
 ---
 
 ## Featured Projects
+### [Community Library Platform](https://github.com/SaraSegal-Dev/community-library-platform)
+
+A smart community library management platform built with a Microservices Architecture, automated notifications, and AI-driven recommendations.
+
+**Key features:**
+
+* Microservices architecture with independent PostgreSQL databases per service
+* AI-driven book recommendations via Groq API
+* JWT authentication and role-based access control
+* Automated notification service for loans and due dates
+* Containerized with Docker and orchestrated via Docker Compose
+
+**Technologies:** Java · Spring Boot · React.js · PostgreSQL · Docker · JWT · Groq API
 
 ### [Hosting Management & Booking System](https://github.com/SaraSegal-Dev/hosting-system)
 
